@@ -1,1 +1,1 @@
-# business-technologies
+# business-technologies project
